@@ -1,0 +1,4 @@
+print("lolkkovich")
+x = input()
+if x == lolkkovich:
+  print("победа")
