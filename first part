@@ -1,1 +1,4 @@
 print("lolkkovich")
+x == "lol"
+if x != lolkkovich:
+  print("эхэхэхущки")
